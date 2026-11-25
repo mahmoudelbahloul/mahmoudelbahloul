@@ -16,8 +16,6 @@ I build practical AI systems: retrieval-augmented chat, agentic backends with MC
 | [**Disease Prediction**](https://github.com/mahmoudelbahloul/CodeAlpha_DiseasePrediction) | Breast-cancer classification (Logistic Regression, SVM, Random Forest, XGBoost) with leak-free cross-validation and a focus on malignant recall. | scikit-learn, XGBoost |
 | [**FAQ Chatbot**](https://github.com/mahmoudelbahloul/CodeAlpha_Chatbot) | Retrieval chatbot with TF-IDF and cosine similarity written from scratch, with a confidence threshold and fallback answer. | Python (standard library) |
 
-Private projects: a full-stack clinic management system (React, TypeScript, Node.js, PostgreSQL with Drizzle ORM; user management, duplicate-record prevention, audit logging) and an autonomous UV-C disinfection robot (graduation project, team of 10, Arduino Mega + Raspberry Pi).
-
 ## Experience
 
 - **Mechatronics & AI Engineer, Elbialy Group Chemical Industries** (Sep 2025 – Sep 2026): built an AI chatbot that routes buyer requests to the right department, automated recurring reports, and analysed company data.
