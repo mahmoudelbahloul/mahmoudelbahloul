@@ -9,6 +9,7 @@ I build practical AI systems: retrieval-augmented chat, agentic backends with MC
 
 | Project | What it is | Stack |
 |---|---|---|
+| [**Huawei HCIA-AI Labs**](https://github.com/mahmoudelbahloul/Huawei-HCIA-AI-Labs) | Hands-on labs for the Huawei AI course: 16 notebooks covering the whole syllabus, from pandas and regression to SVM, ensembles, CNN, LSTM and a DNA classifier (**98%** held-out accuracy). Every notebook reports metrics on held-out data and the README lists the caveats. | Python, scikit-learn, TensorFlow/Keras |
 | [**agentic-rag-mcp-system**](https://github.com/mahmoudelbahloul/agentic-rag-mcp-system) | Full-stack agentic AI system: React chat UI, a RAG backend that grounds Gemini answers in a semantically searched FAQ base, and a TypeScript backend over business data and tools (MCP server in progress). | React, TypeScript, Node/Express, Gemini API, `@modelcontextprotocol/sdk` |
 | [**Speech Emotion Recognition**](https://github.com/mahmoudelbahloul/CodeAlpha_SpeechEmotionRecognition) | 8-class emotion recognition from speech with a speaker-independent split (4 unseen actors) and a cross-corpus test on TESS. CNN ensemble: **53.8%** test accuracy, with the failed first attempt and its diagnosis kept in the notebook. | TensorFlow/Keras, librosa, scikit-learn |
 | [**Handwritten Character Recognition**](https://github.com/mahmoudelbahloul/CodeAlpha_HandwrittenRecognition) | CNN for digits and letters (EMNIST Balanced, 47 classes), two rounds of improvement and a 3-model ensemble: **90.5%** test accuracy. | TensorFlow/Keras |
